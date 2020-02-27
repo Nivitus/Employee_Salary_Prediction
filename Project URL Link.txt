@@ -1,1 +1,1 @@
-URL:https://mysalpre.herokuapp.com/
+https://mysalpre.herokuapp.com/
